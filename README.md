@@ -1,1 +1,1 @@
-# Density-aware-Chamfer-Distance-Guided-Single-view-Point-Cloud-Reconstruction-Network
+# Enhancing Single-View 3D Point Cloud Reconstruction with Density-aware Chamfer Distance
